@@ -1,0 +1,89 @@
+/* PIZZA CATALOG SECTION */
+
+.pizza-list-section {
+    text-align: center;
+}
+
+.pizza-catalog {
+    color: lightcoral;
+    text-decoration: underline;
+
+}
+
+hr {
+    color: lightblue;
+}
+
+.pizza-panel {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 350px;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    box-shadow: 2px 2px 2px lightgray;
+}
+
+.pizza-img {
+    position: relative;
+}
+
+#pizza-demo {
+    width: 350px;
+    float: center;
+    position: relative;
+    border-radius: 5px;
+}
+
+.pizza-discount {       
+    position: absolute;
+    background-color: lightblue;
+    border-radius: 5px;
+    color: white;
+    top: 0px;
+    right: 0px;
+    padding: 5px;
+}
+
+.pizza-name {
+    text-align: center;
+    color: lightcoral;
+}
+
+.pizza-description {
+    text-align: justify;
+    color: gray;
+}
+
+.button-order {
+    float: left;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+    color: white;
+    background: lightblue;
+    padding: 20px;
+}
+
+.pizza-price {
+    text-align: center;
+}
+
+.pizza-price-medium {
+    color: gray;
+}
+
+.pizza-price-big {
+    text-decoration: none;
+    color: lightcoral;
+}
+
+.pizza-stock {
+    font-size: 12px;
+    color: gray;
+}
+/* PIZZA COMPONENT */
+
+/*
+.pizza {
+
+}
+*/
